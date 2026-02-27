@@ -4,7 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div class="container">
-    <h1>Projeto Soma</h1>
+    <h1>Projeto Calculadora</h1>
 
     <div class="form">
       <label>Primeiro número:</label>
