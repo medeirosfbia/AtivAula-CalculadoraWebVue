@@ -1,5 +1,40 @@
-# Vue 3 + Vite
+# Projeto Calculadora
+Pequeno projeto demonstrativo criado com Vue 3 + Vite. Esta aplicação serve como exemplo simples para aprender a estrutura de um projeto Vue.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Principais pontos
+- Interface minimalista em Vue 3
+- Configuração com Vite para desenvolvimento rápido
+- Código organizado em componentes (pasta `src/components`)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Pré-requisitos
+- Node.js (v16+ recomendado)
+
+Como executar (local)
+1. Instale dependências:
+
+```bash
+npm install
+```
+
+2. Rode em modo de desenvolvimento:
+
+```bash
+npm run dev
+```
+
+3. Build para produção:
+
+```bash
+npm run build
+```
+
+Deploy
+- Pode ser publicado facilmente no GitHub Pages, Vercel ou Netlify.
+
+Contribuições e contato
+- Mudanças pequenas são bem-vindas — abra uma issue ou pull request.
+
+Licença
+- Código disponível sob licença MIT.
+
+Boa exploração! 🚀
